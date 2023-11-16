@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    font-family: 'Poiret One', sans-serif;
+    font-size: 24px;
+}
+
+h4{
+    text-decoration: none;
+    color: #43bcf0
+}
+
+a{
+    text-decoration: none;
+    color: black
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFFFFF;
+    padding: 8px 12px;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+}
+
+.nav-links li {
+    padding: 8px 12px;
+
+}
+
+h2{
+    color: white;
+}
+
+.container {
+    margin: 10px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    padding: 15px 12px;
+
+}
+
+.btn {
+    color: white;
+
+
+}
